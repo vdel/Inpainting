@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#include file="header.html" -->
+
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="100%"><tbody><tr><td>
+<font face="Arial,Helvetica" size="-1">
+
+<img src="img/item_chat.gif" alt="Online Chat">
+<p>
+This is a small chat dedicated to the CImg Library. Feel free to say something interesting, ask something, or share your experience.
+You need Flash to be able to see this chat.
+</p>
+
+<center>
+<embed src="http://www.xatech.com/web_gear/chat/chat.swf" quality="high" width="750" height="450" name="chat" FlashVars="id=51479969" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://xat.com/update_flash.shtml" />
+</center>
+
+<!--#include file="footer.html" -->

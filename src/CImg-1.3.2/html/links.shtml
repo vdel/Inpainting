@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#include file="header.html" -->
+
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="100%"><tbody><tr><td>
+<font face="Arial,Helvetica" size="-1">
+
+<img src="img/item_links.gif">
+<p>
+The CImg Library is known to be used by these following projects. If you are using CImg and want your project to appear on this page,
+ please post a message in the forum, or contact us by e-mail.
+<ul>
+<li><b><a href="http://enas.gforge.inria.fr/">Event Neural Assembly Simulation</a></b> is an
+ open-source C++ library to simulate so called event neural unit. Done by the INRIA lab, in France.</li>
+<li><b><a href="http://www.vips.ecs.soton.ac.uk/index.php?title=GREYCstoration">The VIPS Library</a></b> integrates a GREYCstoration plugin.</li>
+<li><b><a href="http://csn.umit.at/download/toolbox/The_CRN_Toolbox.ppt">The CRN Toolbox</a></b> (Context Recognition Network Toolbox) from the Institute for Computer Systems and Networks, UMIT, Hall in Tirol.</li>
+<li><b><a href="http://www.digikam.org/">Digikam</a></b>, an advanced digital photo management application.</li>
+<li><b><a href="http://www.koffice.org/krita">Krita</a></b>, a painting and image editing application for KOffice.</li>
+<li><b><a href="http://ometah.berlios.de/index.php/Main_Page">oMetah</a></b>, a library aimed at the conception of metaheuristics.</li>
+<li><b><a href="http://www.itm.uni-stuttgart.de/research/pasimodo/pasimodo_de.php">PASIMODO</a></b>, a program package for particle-based simulation methods, developed at the Institute of Engineering and Computational Mechanics (University of Stuttgart, Germany).
+<li><b><a href="http://cimg.sourceforge.net/greycstoration/">GREYCstoration</a></b> is an open source algorithms for image denoising and interpolation. Command-line and GIMP plug-in versions are available.</li>
+<li><b><a href="http://akabla.free.fr/IDIL/index.html">IDIL</a></b> (Integrated Data & Image Library), a cross-platform library for computing, plotting and image analysis.</li>
+<li><b><a href="http://gmic.sourceforge.net/">G'MIC</a></b> is a command-line image manipulation tool able to deal with sequences of 1D/2D/3D multi-spectral images.</li>
+<li><b><a href="http://pieni.net/~thirsima/gocam">GoCam</a></b>, an open source project for developing a computer vision system that analyses video capture of a go game.</li>
+<li><b><a href="http://www.ece.lsu.edu/ipl/Demos.html">LSU's Super-Resolution GUI</a></b>, a super resolution (SR) software for researchers.</li>
+<li><b><a href="http://www.imagico.de/ascos/index.html">ASCOS</a></b>, a correction tool for satellite images.</li>
+<li><b><a href="http://www-sop.inria.fr/books/imath">Mathematical Problems in Image Processing</a></b>, a book from P. Kornprobst and G. Aubert, coming with C++ algorithms described in the book.</li>
+<li><b><a href="http://fc.isima.fr/~vbarra/Imagerie/">Courses in Image Processing</a></b> from the engineering school ISIMA, with projects done in C++ with CImg (in french).</li>
+<li><b><a href="http://www-sop.inria.fr/odyssee/team/Pierre.Kornprobst/enseignement/projetsArchive/index.html">Open source CImg-based projects</a></b> implementing several image processing algorithms, parts of student assignements (in french, supervisor P. Kornprobst).</li>
+<li><b><a href="http://www.google.com/codesearch?hl=en&lr=&q=%22cimg_library%22&btnG=Search">Other pieces of code using CImg</a></b> can be found there, using Google search.
+</ul>
+</p>
+
+</font></td></tr></tbody></table>
+
+<!--#include file="footer.html" -->
